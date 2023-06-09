@@ -1,0 +1,15 @@
+Para instalar reux toolkit
+
+npm install @reduxjs/toolkit react-redux
+
+
+Para instalar la libreria uuid y generar de ella id dinamicos.
+
+npm i uuid
+
+
+
+
+-------------------------------------------------
+https://www.youtube.com/watch?v=w2rAP7d6ndg&t=39s
+Me quede en el minuto 46:41
