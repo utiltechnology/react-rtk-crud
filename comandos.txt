@@ -8,6 +8,9 @@ Para instalar la libreria uuid y generar de ella id dinamicos.
 npm i uuid
 
 
+Para instalar la libreria de react router
+
+npm install react-router-dom@6
 
 
 -------------------------------------------------

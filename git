@@ -1,0 +1,17 @@
+[33mcommit fbc5b89ade84a54123bd3396fa7b8dde4122b167[m[33m ([m[1;36mHEAD -> [m[1;32mcontainsCodeOfDeleteTask[m[33m, [m[1;31morigin/containsCodeOfDeleteTask[m[33m)[m
+Author: Abel H <abel_hernandez24@hotmail.com>
+Date:   Mon Jun 12 12:08:25 2023 -0400
+
+    Esta version elimina tareas
+
+[33mcommit d5e9477e1c215bff468b93135aed76087858d48b[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Abel H <abel_hernandez24@hotmail.com>
+Date:   Fri Jun 9 08:48:24 2023 -0400
+
+    Esta version agrega y muesta tareas
+
+[33mcommit 222b1a237978358c2cd02c91532d026a70ffbdbf[m
+Author: Abel H <abel_hernandez24@hotmail.com>
+Date:   Wed Jun 7 14:28:31 2023 -0400
+
+    Initialize project using Create React App
